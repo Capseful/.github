@@ -1,4 +1,7 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+<img width="1167" height="582" alt="try-capseful" src="https://github.com/user-attachments/assets/f64bbbb3-92fa-4532-89a3-d7f700d5eb9e" />
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Capseful
+Currently in development for iOS and web support.  
+
+___ 
+**Solo Developer. Crafted with passion ❤️.**
